@@ -1,7 +1,4 @@
-# elements
-M4L MIDI controls for monome grids
-
-elements is a collection of M4L MIDI controls for monome grids. 
+# elements - M4L MIDI controls for monome grids
 
 
 

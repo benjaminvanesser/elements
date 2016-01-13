@@ -27,6 +27,7 @@ info
 
 the button in the top right corner records and plays back button presses
 one button to the right activates random note output
+selected row interval == relative to selected scale
 
 SLIDERS
 
